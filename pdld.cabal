@@ -19,6 +19,7 @@ library
                      , Lab
                      , Display
                      , PDLD
+                     , ShowText
   build-depends:       base >= 4.7 && < 5
                      , text
   default-language:    Haskell2010
